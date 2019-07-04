@@ -13,7 +13,7 @@ class Dog
   end
   
   def self.prints_all
-    puts @@
+    puts @@all.each
   end
   
   
